@@ -1,0 +1,11 @@
+com\ryz\photoalbum\controller\SysController.class
+com\ryz\photoalbum\controller\Test.class
+com\ryz\photoalbum\pojo\PUser.class
+com\ryz\photoalbum\controller\UserController.class
+com\ryz\photoalbum\repository\ImageRepository.class
+com\ryz\photoalbum\PhotoalbumApplication.class
+com\ryz\photoalbum\repository\UserRepository.class
+com\ryz\photoalbum\controller\FileController.class
+com\ryz\photoalbum\service\UserService.class
+com\ryz\photoalbum\pojo\PImage.class
+com\ryz\photoalbum\service\ImageService.class
